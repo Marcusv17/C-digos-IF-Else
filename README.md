@@ -3,26 +3,28 @@
 <Title>If Else no java swing </Title>
 
 <h1>Todos os códigos</h1>
+
 <p> Maior ou Menor</p>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8d936da-0d55-49e8-96df-3617d1abb643" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4b3a1c9-a53f-4646-acb9-bbd0078d5d4f" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e51fc7cd-9a8a-47ca-ab1f-3aae37109077" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7abc9f43-148e-4910-8713-e85d90938d9f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a5c10af-08db-4ea5-bc61-ed6f9ac365be" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62842628-6759-4ea6-ab65-90551be3006e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b2b11dab-ba6d-4175-a03b-5a1b8f8da158" />
+<br>
 
 <p> Números iguais ou diferentes</p>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5cc8813-852d-42dc-8083-ba3011564a42" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c4277232-84cb-4613-9210-185de51e4725" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c80c2e83-ecdd-4dc4-8208-ad40ebc25445" />
 
-<p> Maior ou igual e Menor ou igual</p>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/18759b73-08fc-4d24-9b77-7d900f61d389" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6024a5cb-7e4e-4071-84d3-7836b673f0c7" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd84cd61-33bc-47f9-93bf-c4edec1e2a4c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/764ac829-39ee-4c30-ac81-0a4e597086c1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/449da1b1-ee89-4bd4-9851-e8fcb853e352" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c0bc06b-3acc-4d26-a907-f161b0f03e0a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aadaad72-e988-4a83-b389-965a279c3233" />
 <br>
-<p> Obrigado pela atenção</p>
 
+<p> Maior ou igual / Menor ou igual</p>
 
-
-
-
-
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10c68682-969b-4d7d-a9f9-1026244299ee" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea94a4f2-8b17-4793-86c6-358402a99894" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b9221f1-5720-4115-baed-a38ae900cbcb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8162aa18-cd19-4aa2-8cf5-c281062e7ee0" />
+<br>
+<p>Obrigado pela atenção!</p>
