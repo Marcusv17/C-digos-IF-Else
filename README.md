@@ -5,7 +5,6 @@
 <h1>Todos os códigos</h1>
 <p> Maior ou Menor</p>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8d936da-0d55-49e8-96df-3617d1abb643" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42dbe79c-4a5b-44b0-8774-8d9a07777e99" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4b3a1c9-a53f-4646-acb9-bbd0078d5d4f" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e51fc7cd-9a8a-47ca-ab1f-3aae37109077" />
 
