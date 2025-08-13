@@ -1,8 +1,8 @@
 # Codigos-IF-Else
 
-<Title>If Else no java swing </Title>
+<h1>If Else no JavaSwing</h1>
 
-<h1>Todos os códigos</h1>
+<h2>Todos os códigos</h2>
 
 <p> Maior ou Menor</p>
 
